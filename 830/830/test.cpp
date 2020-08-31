@@ -163,6 +163,7 @@ int main()
 {
 	int a1 = 10;
 	double b1 = 20.0;
+	//ÏÔÊ¾ÊµÀı»¯
 	Add<int>(a1, b1);
 	system("pause");
 	return 0;
